@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memorama2", "memorama2\memorama2.csproj", "{05246D73-B48B-483C-9A07-B29DAA6EDA2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05246D73-B48B-483C-9A07-B29DAA6EDA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05246D73-B48B-483C-9A07-B29DAA6EDA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05246D73-B48B-483C-9A07-B29DAA6EDA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05246D73-B48B-483C-9A07-B29DAA6EDA2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83A1F22B-5FF0-4C5B-965A-075B9C874EE6}
+	EndGlobalSection
+EndGlobal
